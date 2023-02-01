@@ -1,4 +1,4 @@
-<category name="MoveMini" colour="#02AD4D" iconclass="blocklyTreeIconCustom robot">
+<category name="MoveMini" colour="#02AD4D" css-icon="customIcon fad fa-car">
 <label text="Kitronik MoveMini" web-class="myLabelStyle"></label>
  <block type="import_movemini"></block>
  <block type="movemini_init"></block>
